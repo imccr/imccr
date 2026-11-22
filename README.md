@@ -1,19 +1,15 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shishir%20Timilsina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20the%20making&descAlignY=58&descSize=18" />
-</p>
+<h1 align="center">Hi, I'm Shishir Timilsina 👋</h1>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/imccr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Final-year+Computer+Engineering+%40+IOE+Thapathali;Building+RAG+%26+LLM-powered+apps;Computer+Vision+%7C+Knowledge+Graphs;Python+%C2%B7+FastAPI+%C2%B7+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Final-year+Computer+Engineering+Student;Learning+and+Building+with+AI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shishir-timilsina-052969327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hello@shishirtimilsina.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=imccr&style=for-the-badge&color=4FC3F7&label=Profile+Views" />
 </p>
 
 ---
@@ -21,10 +17,9 @@
 ### 👋 About Me
 
 - 🎓 Final-year **Computer Engineering** student at **IOE Thapathali Campus**, Nepal
-- 🤖 I build **end-to-end AI products**: LLM/RAG systems, computer vision pipelines, knowledge graphs
+- 💻 I build **real-world projects** across AI/ML, data and full-stack web development
 - 📊 Studied **Artificial Intelligence** and **Data Mining**, and I like turning messy data into useful decisions
-- 🌱 Currently learning: **AI agents & agentic workflows**, and the finance domain
-- ⚡ Fun fact: my exam proctoring model was trained on a dataset we recorded ourselves
+- 🌱 Always learning something new
 
 ---
 
@@ -59,18 +54,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imccr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imccr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imccr&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
